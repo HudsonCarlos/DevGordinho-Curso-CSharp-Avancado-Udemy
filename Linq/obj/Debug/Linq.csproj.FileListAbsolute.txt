@@ -1,0 +1,13 @@
+C:\Users\Hudson\OneDrive\Cursos\CSharp\CSharp Avancado\Curso-Udemy\CSharp\Linq\bin\Debug\Linq.exe.config
+C:\Users\Hudson\OneDrive\Cursos\CSharp\CSharp Avancado\Curso-Udemy\CSharp\Linq\bin\Debug\Linq.exe
+C:\Users\Hudson\OneDrive\Cursos\CSharp\CSharp Avancado\Curso-Udemy\CSharp\Linq\bin\Debug\Linq.pdb
+C:\Users\Hudson\OneDrive\Cursos\CSharp\CSharp Avancado\Curso-Udemy\CSharp\Linq\obj\Debug\Linq.csprojAssemblyReference.cache
+C:\Users\Hudson\OneDrive\Cursos\CSharp\CSharp Avancado\Curso-Udemy\CSharp\Linq\obj\Debug\Linq.exe
+C:\Users\Hudson\OneDrive\Cursos\CSharp\CSharp Avancado\Curso-Udemy\CSharp\Linq\obj\Debug\Linq.pdb
+D:\Cursos\CSharp\CSharp Avancado\Curso-Udemy\DevGordinho-Curso-CSharp-Avancado-Udemy\Linq\bin\Debug\Linq.exe.config
+D:\Cursos\CSharp\CSharp Avancado\Curso-Udemy\DevGordinho-Curso-CSharp-Avancado-Udemy\Linq\bin\Debug\Linq.exe
+D:\Cursos\CSharp\CSharp Avancado\Curso-Udemy\DevGordinho-Curso-CSharp-Avancado-Udemy\Linq\bin\Debug\Linq.pdb
+D:\Cursos\CSharp\CSharp Avancado\Curso-Udemy\DevGordinho-Curso-CSharp-Avancado-Udemy\Linq\obj\Debug\Linq.csprojAssemblyReference.cache
+D:\Cursos\CSharp\CSharp Avancado\Curso-Udemy\DevGordinho-Curso-CSharp-Avancado-Udemy\Linq\obj\Debug\Linq.csproj.CoreCompileInputs.cache
+D:\Cursos\CSharp\CSharp Avancado\Curso-Udemy\DevGordinho-Curso-CSharp-Avancado-Udemy\Linq\obj\Debug\Linq.exe
+D:\Cursos\CSharp\CSharp Avancado\Curso-Udemy\DevGordinho-Curso-CSharp-Avancado-Udemy\Linq\obj\Debug\Linq.pdb

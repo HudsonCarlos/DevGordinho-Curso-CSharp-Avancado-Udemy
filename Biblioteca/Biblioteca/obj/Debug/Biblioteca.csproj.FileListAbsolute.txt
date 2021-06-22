@@ -1,0 +1,11 @@
+C:\Users\Hudson\OneDrive\Cursos\CSharp\CSharp Avancado\Curso-Udemy\CSharp\Biblioteca\Biblioteca\bin\Debug\Biblioteca.dll
+C:\Users\Hudson\OneDrive\Cursos\CSharp\CSharp Avancado\Curso-Udemy\CSharp\Biblioteca\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\Hudson\OneDrive\Cursos\CSharp\CSharp Avancado\Curso-Udemy\CSharp\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csprojAssemblyReference.cache
+C:\Users\Hudson\OneDrive\Cursos\CSharp\CSharp Avancado\Curso-Udemy\CSharp\Biblioteca\Biblioteca\obj\Debug\Biblioteca.dll
+C:\Users\Hudson\OneDrive\Cursos\CSharp\CSharp Avancado\Curso-Udemy\CSharp\Biblioteca\Biblioteca\obj\Debug\Biblioteca.pdb
+D:\Cursos\CSharp\CSharp Avancado\Curso-Udemy\DevGordinho-Curso-CSharp-Avancado-Udemy\Biblioteca\Biblioteca\bin\Debug\Biblioteca.dll
+D:\Cursos\CSharp\CSharp Avancado\Curso-Udemy\DevGordinho-Curso-CSharp-Avancado-Udemy\Biblioteca\Biblioteca\bin\Debug\Biblioteca.pdb
+D:\Cursos\CSharp\CSharp Avancado\Curso-Udemy\DevGordinho-Curso-CSharp-Avancado-Udemy\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csprojAssemblyReference.cache
+D:\Cursos\CSharp\CSharp Avancado\Curso-Udemy\DevGordinho-Curso-CSharp-Avancado-Udemy\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+D:\Cursos\CSharp\CSharp Avancado\Curso-Udemy\DevGordinho-Curso-CSharp-Avancado-Udemy\Biblioteca\Biblioteca\obj\Debug\Biblioteca.dll
+D:\Cursos\CSharp\CSharp Avancado\Curso-Udemy\DevGordinho-Curso-CSharp-Avancado-Udemy\Biblioteca\Biblioteca\obj\Debug\Biblioteca.pdb

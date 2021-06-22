@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "BejXBfEJ/Z4HbpLT1ocZZ7qUiM+ECl1on4TJREyugbdUP6Cb7wwTUIKdCbgJMFGqltkMLbfguFn0oS7rxzBdAA==",
+  "success": true,
+  "projectFilePath": "D:\\Cursos\\CSharp\\CSharp Avancado\\Curso-Udemy\\DevGordinho-Curso-CSharp-Avancado-Udemy\\ThreadMetodos\\ThreadMetodos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hudson\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\Hudson\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

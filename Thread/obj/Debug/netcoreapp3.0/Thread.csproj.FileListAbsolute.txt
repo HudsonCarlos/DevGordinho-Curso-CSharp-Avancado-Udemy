@@ -1,0 +1,4 @@
+C:\Users\Hudson\OneDrive\Cursos\CSharp\CSharp Avancado\Curso-Udemy\CSharp\Thread\obj\Debug\netcoreapp3.0\Thread.csprojAssemblyReference.cache
+C:\Users\Hudson\OneDrive\Cursos\CSharp\CSharp Avancado\Curso-Udemy\CSharp\Thread\obj\Debug\netcoreapp3.0\Thread.csproj.CoreCompileInputs.cache
+C:\Users\Hudson\OneDrive\Cursos\CSharp\CSharp Avancado\Curso-Udemy\CSharp\Thread\obj\Debug\netcoreapp3.0\Thread.AssemblyInfoInputs.cache
+C:\Users\Hudson\OneDrive\Cursos\CSharp\CSharp Avancado\Curso-Udemy\CSharp\Thread\obj\Debug\netcoreapp3.0\Thread.AssemblyInfo.cs

@@ -1,0 +1,13 @@
+C:\Users\Hudson\OneDrive\Cursos\CSharp\CSharp Avancado\Curso-Udemy\CSharp\LInq_JOIN\obj\Debug\LInq_JOIN.csprojAssemblyReference.cache
+C:\Users\Hudson\OneDrive\Cursos\CSharp\CSharp Avancado\Curso-Udemy\CSharp\LInq_JOIN\bin\Debug\LInq_JOIN.exe.config
+C:\Users\Hudson\OneDrive\Cursos\CSharp\CSharp Avancado\Curso-Udemy\CSharp\LInq_JOIN\bin\Debug\LInq_JOIN.exe
+C:\Users\Hudson\OneDrive\Cursos\CSharp\CSharp Avancado\Curso-Udemy\CSharp\LInq_JOIN\bin\Debug\LInq_JOIN.pdb
+C:\Users\Hudson\OneDrive\Cursos\CSharp\CSharp Avancado\Curso-Udemy\CSharp\LInq_JOIN\obj\Debug\LInq_JOIN.exe
+C:\Users\Hudson\OneDrive\Cursos\CSharp\CSharp Avancado\Curso-Udemy\CSharp\LInq_JOIN\obj\Debug\LInq_JOIN.pdb
+D:\Cursos\CSharp\CSharp Avancado\Curso-Udemy\DevGordinho-Curso-CSharp-Avancado-Udemy\LInq_JOIN\bin\Debug\LInq_JOIN.exe.config
+D:\Cursos\CSharp\CSharp Avancado\Curso-Udemy\DevGordinho-Curso-CSharp-Avancado-Udemy\LInq_JOIN\bin\Debug\LInq_JOIN.exe
+D:\Cursos\CSharp\CSharp Avancado\Curso-Udemy\DevGordinho-Curso-CSharp-Avancado-Udemy\LInq_JOIN\bin\Debug\LInq_JOIN.pdb
+D:\Cursos\CSharp\CSharp Avancado\Curso-Udemy\DevGordinho-Curso-CSharp-Avancado-Udemy\LInq_JOIN\obj\Debug\LInq_JOIN.csprojAssemblyReference.cache
+D:\Cursos\CSharp\CSharp Avancado\Curso-Udemy\DevGordinho-Curso-CSharp-Avancado-Udemy\LInq_JOIN\obj\Debug\LInq_JOIN.csproj.CoreCompileInputs.cache
+D:\Cursos\CSharp\CSharp Avancado\Curso-Udemy\DevGordinho-Curso-CSharp-Avancado-Udemy\LInq_JOIN\obj\Debug\LInq_JOIN.exe
+D:\Cursos\CSharp\CSharp Avancado\Curso-Udemy\DevGordinho-Curso-CSharp-Avancado-Udemy\LInq_JOIN\obj\Debug\LInq_JOIN.pdb

@@ -1,0 +1,13 @@
+C:\Users\Hudson\OneDrive\Cursos\CSharp\CSharp Avancado\Curso-Udemy\CSharp\Generics\obj\Debug\Generics.csprojAssemblyReference.cache
+C:\Users\Hudson\OneDrive\Cursos\CSharp\CSharp Avancado\Curso-Udemy\CSharp\Generics\bin\Debug\Generics.exe.config
+C:\Users\Hudson\OneDrive\Cursos\CSharp\CSharp Avancado\Curso-Udemy\CSharp\Generics\bin\Debug\Generics.exe
+C:\Users\Hudson\OneDrive\Cursos\CSharp\CSharp Avancado\Curso-Udemy\CSharp\Generics\bin\Debug\Generics.pdb
+C:\Users\Hudson\OneDrive\Cursos\CSharp\CSharp Avancado\Curso-Udemy\CSharp\Generics\obj\Debug\Generics.exe
+C:\Users\Hudson\OneDrive\Cursos\CSharp\CSharp Avancado\Curso-Udemy\CSharp\Generics\obj\Debug\Generics.pdb
+D:\Cursos\CSharp\CSharp Avancado\Curso-Udemy\DevGordinho-Curso-CSharp-Avancado-Udemy\Generics\bin\Debug\Generics.exe.config
+D:\Cursos\CSharp\CSharp Avancado\Curso-Udemy\DevGordinho-Curso-CSharp-Avancado-Udemy\Generics\bin\Debug\Generics.exe
+D:\Cursos\CSharp\CSharp Avancado\Curso-Udemy\DevGordinho-Curso-CSharp-Avancado-Udemy\Generics\bin\Debug\Generics.pdb
+D:\Cursos\CSharp\CSharp Avancado\Curso-Udemy\DevGordinho-Curso-CSharp-Avancado-Udemy\Generics\obj\Debug\Generics.csprojAssemblyReference.cache
+D:\Cursos\CSharp\CSharp Avancado\Curso-Udemy\DevGordinho-Curso-CSharp-Avancado-Udemy\Generics\obj\Debug\Generics.csproj.CoreCompileInputs.cache
+D:\Cursos\CSharp\CSharp Avancado\Curso-Udemy\DevGordinho-Curso-CSharp-Avancado-Udemy\Generics\obj\Debug\Generics.exe
+D:\Cursos\CSharp\CSharp Avancado\Curso-Udemy\DevGordinho-Curso-CSharp-Avancado-Udemy\Generics\obj\Debug\Generics.pdb
